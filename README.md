@@ -1,4 +1,4 @@
-# Prevendo _valor de ações_ - `PETROBRAS`
+# Prevendo _valor de ações_ - `PETROBRAS (PETR4.SA)`
 
 ![image](https://user-images.githubusercontent.com/63373520/147947928-e231b4b1-ed66-4bd5-9392-f1189c407719.png)
 
